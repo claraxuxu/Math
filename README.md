@@ -28,3 +28,15 @@ using the following process to encrypt :
 •Convert the numbered message into a matrix; its number of columns should fit the key matrix size,and its number of lines should be as small as possible,
 
 •Multiply the 2 matrices, and write the answer linearly to get the encrypted message
+
+# 104-Intersection
+
+you need to write a 3 dimensional equation of the considered surface, and inject into it the equa-tion of the straight line representing the light ray. 
+You’ll get a quadratic equation, with 0, 1, 2 or an infinitenumber of solutions that will give you the intersection points coordinates.The straight line is defined by the coordinates of a point by which it passes through and the coordinates ofa parallel vector.
+Obeing the origin of the coordinate system, andX,YandZthe axis, the surfaces that must be handledin this project are:
+
+•O-centered spheres,
+
+•Cylinders of revolution aroundZaxis,
+
+•Cones of revolution aroundZaxis whose apex is O.
